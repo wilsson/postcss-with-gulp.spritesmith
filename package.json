@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/wilsson/postcss-gulp.spritesmith/issues"
   },
-  "homepage": "https://github.com/wilsson/postcss-gulp.spritesmith"
+  "homepage": "https://github.com/wilsson/postcss-gulp.spritesmith",
+  "devDependencies": {
+    "gulp.spritesmith": "^6.0.0",
+    "postcss-each": "^0.7.0",
+    "postcss-functions": "^2.0.0",
+    "postcss-sassy-mixins": "^1.0.0",
+    "postcss-simple-vars": "^1.1.0"
+  }
 }
