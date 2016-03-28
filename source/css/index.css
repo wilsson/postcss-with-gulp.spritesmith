@@ -1,0 +1,5 @@
+@import 'main_sprite.css';
+
+.test{
+	@include sprite($calabaza);
+}
